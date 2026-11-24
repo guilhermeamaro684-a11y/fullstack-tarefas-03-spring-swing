@@ -5,72 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebd27df7-a341-46e5-b96c-f1f10539955f" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/curso/listadetarefas/api/ApiSpringApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/_metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-2GZWIDJV.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-2GZWIDJV.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-345347NJ.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-345347NJ.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-3AAKBQR3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-3AAKBQR3.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-4QLTIES7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-4QLTIES7.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-5JOFXRHR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-5JOFXRHR.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-7L4GPZPV.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-7L4GPZPV.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-7RQDXF5S.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-7RQDXF5S.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-IMNB26LL.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-IMNB26LL.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-OHYQYV5R.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-OHYQYV5R.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-RGCWBQTX.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-RGCWBQTX.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-UGBVNEQM.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-UGBVNEQM.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-VIEJFFHU.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-VIEJFFHU.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-X3MSSKZO.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/chunk-X3MSSKZO.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_animate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_animate.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_attachments.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_attachments.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_easing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_easing.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_events.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_client.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_client.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_disclose-version.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_disclose-version.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_flags_async.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_flags_async.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_flags_legacy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_flags_legacy.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_flags_tracing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_internal_flags_tracing.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_legacy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_legacy.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_motion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_motion.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_reactivity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_reactivity.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_reactivity_window.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_reactivity_window.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_store.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_transition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-svelte/node_modules/.vite/deps/svelte_transition.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,16 +15,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Bueno897564"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bueno897564&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/Bueno897564/fullstack_tarefas_02_spring_svelte.git",
-    "accountId": "e9d9493f-39a7-440b-be46-b86258ce4be5"
+    "url": "https://github.com/Bueno897564/fullstack-tarefas-03-spring-swing.git",
+    "accountId": "470d3ffc-c5c1-4e77-a700-ed346fa50ba5"
   }
 }]]></component>
   <component name="NextEditCompletionFeaturesState">
@@ -152,13 +86,33 @@
       <entry key="W1" value="7.968164034676417" />
     </decayedShown>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3MYd0pkmIVSuO9w63kmvtLZNDF1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="TaskManager">
@@ -210,11 +164,40 @@
       <option name="project" value="LOCAL" />
       <updated>1793113253198</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebd27df7-a341-46e5-b96c-f1f10539955f" name="Changes" comment="Commit" />
+      <created>1795531215858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795531215858</updated>
+      <workItem from="1795531219968" duration="476000" />
+    </task>
+    <task id="LOCAL-00007" summary="Commit">
+      <option name="closed" value="true" />
+      <created>1795531560121</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1795531560122</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.svelte" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:vite" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.thymeleaf:thymeleaf" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
